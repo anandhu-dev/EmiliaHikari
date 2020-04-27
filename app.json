@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/yasirarism/Emilia-Clone/",
+  "repository": "https://github.com/anandhu-dev/EmiliaHikari.git",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
